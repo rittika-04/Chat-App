@@ -41,7 +41,7 @@ A modern, full-stack real-time chat application built with React JS and Firebase
 5.  After deployment, Vercel will provide a live URL for your app.
 
 # Demo
-Check out the live demo: [Chat App][(https://vercel.com/rittika04s-projects/chat-app/F2J413EvU22i7ztfbFTVzcXh63Wp)]
+Check out the live demo: [[here](https://vercel.com/rittika04s-projects/chat-app/F2J413EvU22i7ztfbFTVzcXh63Wp)]
 
 # License
 This project is licensed under the MIT License.
